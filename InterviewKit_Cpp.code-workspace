@@ -11,7 +11,11 @@
 			"type_traits": "cpp",
 			"xtr1common": "cpp",
 			"utility": "cpp",
-			"iostream": "cpp"
+			"iostream": "cpp",
+			"vector": "cpp",
+			"ostream": "cpp",
+			"list": "cpp",
+			"tuple": "cpp"
 		}
 	}
 }
