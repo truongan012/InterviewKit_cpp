@@ -9,5 +9,6 @@
 #include <list>
 #include <tuple>
 #include <math.h>
+#include <numeric>
 
 using namespace std;

@@ -15,7 +15,10 @@
 			"vector": "cpp",
 			"ostream": "cpp",
 			"list": "cpp",
-			"tuple": "cpp"
+			"tuple": "cpp",
+			"xstring": "cpp",
+			"algorithm": "cpp",
+			"xtree": "cpp"
 		}
 	}
 }
